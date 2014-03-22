@@ -1,0 +1,49 @@
+{
+	"IcoMoonType": "selection",
+	"icons": [
+		{
+			"icon": {
+				"paths": [
+					"M512 0c-274.405 0-512 242.949-512 512v512h512c271.059 2.008 512-238.933 512-512 0-284.11-229.898-511.833-512-512zM635.817 766.494c-56.554 83.995-139.88 151.425-235.922 157.281h-299.503v-299.503c4.35-97.548 75.629-176.523 157.281-235.922l413.281-287.791 60.235 63.582-354.719 289.464c-45.176 45.176 15.059 105.412 60.235 60.235l331.294-316.235 58.562 58.562-316.235 331.294c-48.69 48.69 16.732 107.42 60.235 60.235l289.464-354.719 63.582 60.235-287.791 413.281z"
+				],
+				"grid": 0,
+				"tags": [
+					"phork"
+				]
+			},
+			"properties": {
+				"order": 1,
+				"id": 0,
+				"prevSize": 32,
+				"code": 58880,
+				"name": "phork",
+				"ligatures": ""
+			},
+			"setIdx": 0,
+			"iconIdx": 0
+		}
+	],
+	"height": 1024,
+	"metadata": {
+		"name": "phork"
+	},
+	"preferences": {
+		"showGlyphs": true,
+		"showQuickUse": true,
+		"fontPref": {
+			"prefix": "icon-",
+			"metadata": {
+				"fontFamily": "phork"
+			},
+			"metrics": {
+				"emSize": 512,
+				"baseline": 6.25,
+				"whitespace": 50
+			}
+		},
+		"imagePref": {},
+		"historySize": 100,
+		"showCodes": true,
+		"gridSize": 16
+	}
+}
